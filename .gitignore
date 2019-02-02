@@ -1,0 +1,15 @@
+# IDE/Editor temporary files
+.DS_Store*
+Thumbs.db
+*~
+*.swp
+*.bak
+.cache
+.project
+.settings
+.idea/
+
+# Build Temporary files
+/vendor
+/.php_cs.cache
+/.phpunit.result.cache
